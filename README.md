@@ -9,4 +9,4 @@ kichi-kaomoji
 
 ・HOW TO JOIN US
 
-適当にpullして追加したらpull request送ってください。
+適当にforkして追加したらpull request送ってください。
