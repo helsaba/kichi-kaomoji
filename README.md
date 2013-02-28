@@ -7,6 +7,10 @@ kichi-kaomoji
 
 タイトルのまんまだってば。
 
+・HOW TO USE
+
+「dict.txt」を「Raw」で表示して、右クリックで保存してください。
+
 ・HOW TO JOIN US
 
 適当にforkして追加したらpull request送ってください。
